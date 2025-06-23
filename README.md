@@ -1,11 +1,11 @@
-Internship Task 1 - Titanic Data Cleaning
-# Titanic Dataset - Data Cleaning & Preprocessing
+# Internship Task 1 - Titanic Data Cleaning 
+- Titanic Dataset - Data Cleaning & Preprocessing
 
 ## 🎯 Objective:
 Clean and preprocess the Titanic dataset for ML.
 
 ## 📦 Tools Used:
-- Google Colab
+- Google Colab 
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
