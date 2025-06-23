@@ -88,6 +88,5 @@ The goal of this task is to clean and prepare raw data for Machine Learning usin
 
 ---
 
-## 📤 Submission
-✅ Completed and submitted via the provided submission link.
+
 
